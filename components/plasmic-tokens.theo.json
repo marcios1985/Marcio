@@ -1,0 +1,59 @@
+{
+  "props": [
+    {
+      "name": "Blue",
+      "type": "color",
+      "value": "#007AFF",
+      "category": "color",
+      "meta": {
+        "projectId": "3unu7Ga9VoC4K7UxDprt9q",
+        "id": "Dt0_mbFC61tz"
+      }
+    },
+    {
+      "name": "Light/Gray06",
+      "type": "color",
+      "value": "#F2F2F7",
+      "category": "color",
+      "meta": {
+        "projectId": "3unu7Ga9VoC4K7UxDprt9q",
+        "id": "qNJ8T4LfyMod"
+      }
+    },
+    {
+      "name": "primary label",
+      "type": "color",
+      "value": "#333333",
+      "category": "color",
+      "meta": {
+        "projectId": "3unu7Ga9VoC4K7UxDprt9q",
+        "id": "OEfDfsiJXhzU"
+      }
+    },
+    {
+      "name": "secondary label",
+      "type": "color",
+      "value": "#666666",
+      "category": "color",
+      "meta": {
+        "projectId": "3unu7Ga9VoC4K7UxDprt9q",
+        "id": "AqKfd9dPShJZ"
+      }
+    },
+    {
+      "name": "star color",
+      "type": "color",
+      "value": "#FFCC00",
+      "category": "color",
+      "meta": {
+        "projectId": "3unu7Ga9VoC4K7UxDprt9q",
+        "id": "QPIWBi7mlCX9"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
